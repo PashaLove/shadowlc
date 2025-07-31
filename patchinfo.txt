@@ -36,7 +36,7 @@ DataTable\en-gb\NDMsgEvent.edf 4d786ddb4783a4e15c15ff23aa72c2e92be48b21
 DataTable\en-gb\NDMsgMonster.edf f3c6e276cb2b8d276269c780f325f3e4e45550ee
 DataTable\en-gb\NDQuest.edf 64c432623d40dae521ebf92692ff5de5e252216c
 DataTable\en-gb\NDSkillForce.edf adb0d1a0a5ab91f0c3edb47c5bf56da1efa46f78
-DataTable\en-gb\NDStore.edf 72ad2529caeaeb6e463ec9c9f85b681621815bbe
+DataTable\en-gb\NDStore.edf 51c364b8a1f0535a99867ce0e4abea7a2b4bf78f
 DataTable\en-gb\PcRoom.edf 8f12688b27b744e3ebf60d664cae6b6313100e7f
 DataTable\en-gb\Player.edf 82772204ccd5d33d28157c54169d16fd5fcb543e
 DataTable\en-gb\RF_WebURL.dat 33b58b9025c204021c6a5de7af476bb383e72115
@@ -56,7 +56,5 @@ DataTable\PlayerCharacter.edf 70b62bf0fb7f17b6b27f37f862d98614c9748f0e
 DataTable\Quest.edf 6d0fe498e6c5b7d1c55625da7a4deb3b008d5ebd
 DataTable\Resource.edf 9173d7bfe226e427b91459fe4a4653a9f473cbeb
 DataTable\SkillForce.edf d42b81aac5aefea9ef02764e622b52c021b339ef
-DataTable\Store.edf 0dfa95b17fd57b05dcce24d96aa8818fd71fe70e
+DataTable\Store.edf 39e43b6110e37ed0c1929567d1a3164149ea7c79
 Snooper.dll c0fe0120ea969f4f501a715f7ba479f7850aebc1
-SpriteImage\common\item.spr 7435899fcc97e8d1b055824adbf32dead65a7072
-SpriteImage\en-gb\item.spr 7435899fcc97e8d1b055824adbf32dead65a7072
