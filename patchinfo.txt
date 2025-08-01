@@ -1,4 +1,4 @@
-DataTable\Character.edf da10cc5ac1d27e77f3d134caa907ffb35ced8208
+DataTable\Character.edf 5e5affd4b69d5ecd2b4ad3c067f5da9c36410927
 DataTable\en-gb\ar.scp 6d77484c3578bd30b37ad156d59d166cc4550bb1
 DataTable\en-gb\as.scp 24827424dc1342642ef2c433bad7f161fa204b17
 DataTable\en-gb\Aua.dic 065e109f27683752ccae14fcb0a1b8f7c039f704
@@ -26,9 +26,9 @@ DataTable\en-gb\KeyMap_NKM.dat efac023e72b405c2f8a64ce6304170002d059ccd
 DataTable\en-gb\LauncherMessage.ini a483b3b11be06b24e7fc29ae3fba9cb2801a8b4f
 DataTable\en-gb\MAPDATA.DAT 0d08fe290ea110e5b341dc6926fb7ce806b6a722
 DataTable\en-gb\MiniLauncher.Localization.ini 5851e3ebceff00c7cec97a78c3f4591283704536
-DataTable\en-gb\NDCharacter.edf 4893fa782f3338f64acb314c8b814adcfdc93600
+DataTable\en-gb\NDCharacter.edf 169f073ac0a022f4f85bc235c621a359b3b5c750
 DataTable\en-gb\NDEventShip.edf 307313c15e532ecf803493dd1cad3a646730cf24
-DataTable\en-gb\NDItem.edf 8dee0f014006dde2bfebd21cb51b87795877c2a1
+DataTable\en-gb\NDItem.edf eefe1eacb7a067b62aeb57c81e3c01b2a0813ec2
 DataTable\en-gb\NDItemCash.edf 55b1b9359b4f1965dd9b042a8ee812229b616834
 DataTable\en-gb\NDLanguage.edf d13318e67b9f3aab6debbca7bb375348dd111c70
 DataTable\en-gb\NDMap.edf 28798d26d4cc5e3754d026d1204f8f928433e966
@@ -44,9 +44,9 @@ DataTable\en-gb\UIHelp.edf ba37dcc1cc0a149e2dcce71988e6d444381ec3ae
 DataTable\en-gb\WorldMapData.dat 60fdead156b3ef91da31ff0f5e44dc79554a3bfa
 DataTable\EventShip.edf 36b707ba83a29a7d57d39cbcd2b38b5db2e43b2c
 DataTable\EventSound.edf 3ca5ea9d3d1e30a71b54ec5b59bc129b2d4c3ac5
-DataTable\Item.edf 075a0d715308e2473d29165cd1913a98af4e39a1
+DataTable\Item.edf 80dbb47640062bdddf9a2c10629d0548d22f1261
 DataTable\ItemCash.edf 6f43591fc88f4c056b9bff369d56dc7f072b7c8a
-DataTable\ItemCombine.edf 50e2216f0e13994a11db655cc1ae3cebb0b25302
+DataTable\ItemCombine.edf ab3e3cf676e71c4da78543d472729057a38f6d0c
 DataTable\ItemPremium.edf ba39e2102a0b59cd604fa75b8653762c084441bc
 DataTable\ItemSetEffect.edf e596d84317bea839adad427b8d137fe54f066fb4
 DataTable\ItemTimer.edf a46c3a5590adf43905ccf675a380d3aaf94ea351
