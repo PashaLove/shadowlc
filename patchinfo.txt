@@ -1,4 +1,4 @@
-DataTable\Character.edf fb0d69b3e4a0b5ca844f45e821cbe96067f7ea62
+DataTable\Character.edf da10cc5ac1d27e77f3d134caa907ffb35ced8208
 DataTable\en-gb\ar.scp 6d77484c3578bd30b37ad156d59d166cc4550bb1
 DataTable\en-gb\as.scp 24827424dc1342642ef2c433bad7f161fa204b17
 DataTable\en-gb\Aua.dic 065e109f27683752ccae14fcb0a1b8f7c039f704
@@ -26,7 +26,7 @@ DataTable\en-gb\KeyMap_NKM.dat efac023e72b405c2f8a64ce6304170002d059ccd
 DataTable\en-gb\LauncherMessage.ini a483b3b11be06b24e7fc29ae3fba9cb2801a8b4f
 DataTable\en-gb\MAPDATA.DAT 0d08fe290ea110e5b341dc6926fb7ce806b6a722
 DataTable\en-gb\MiniLauncher.Localization.ini 5851e3ebceff00c7cec97a78c3f4591283704536
-DataTable\en-gb\NDCharacter.edf 57042a647e96e4fd59d05a630f78ab056dd3baab
+DataTable\en-gb\NDCharacter.edf 4893fa782f3338f64acb314c8b814adcfdc93600
 DataTable\en-gb\NDEventShip.edf 307313c15e532ecf803493dd1cad3a646730cf24
 DataTable\en-gb\NDItem.edf 8dee0f014006dde2bfebd21cb51b87795877c2a1
 DataTable\en-gb\NDItemCash.edf 55b1b9359b4f1965dd9b042a8ee812229b616834
@@ -36,7 +36,7 @@ DataTable\en-gb\NDMsgEvent.edf 4d786ddb4783a4e15c15ff23aa72c2e92be48b21
 DataTable\en-gb\NDMsgMonster.edf f3c6e276cb2b8d276269c780f325f3e4e45550ee
 DataTable\en-gb\NDQuest.edf 64c432623d40dae521ebf92692ff5de5e252216c
 DataTable\en-gb\NDSkillForce.edf adb0d1a0a5ab91f0c3edb47c5bf56da1efa46f78
-DataTable\en-gb\NDStore.edf ff446205fe6f1cc77a3cae05ee30e7fd5fe85f7b
+DataTable\en-gb\NDStore.edf 4626f3e8f631adae97ec06aeb9a17915cd8f0ac0
 DataTable\en-gb\PcRoom.edf 8f12688b27b744e3ebf60d664cae6b6313100e7f
 DataTable\en-gb\Player.edf 82772204ccd5d33d28157c54169d16fd5fcb543e
 DataTable\en-gb\RF_WebURL.dat 33b58b9025c204021c6a5de7af476bb383e72115
@@ -56,5 +56,5 @@ DataTable\PlayerCharacter.edf 70b62bf0fb7f17b6b27f37f862d98614c9748f0e
 DataTable\Quest.edf 6d0fe498e6c5b7d1c55625da7a4deb3b008d5ebd
 DataTable\Resource.edf 9173d7bfe226e427b91459fe4a4653a9f473cbeb
 DataTable\SkillForce.edf d42b81aac5aefea9ef02764e622b52c021b339ef
-DataTable\Store.edf 5412e7457fcf3a2673b3d140b1f37a308fca770a
+DataTable\Store.edf 2013d0f3fcb0f86d7f3a781236252bf2cbbb7f14
 Snooper.dll c0fe0120ea969f4f501a715f7ba479f7850aebc1
