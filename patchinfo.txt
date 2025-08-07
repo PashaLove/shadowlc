@@ -28,7 +28,7 @@ DataTable\en-gb\MAPDATA.DAT 0d08fe290ea110e5b341dc6926fb7ce806b6a722
 DataTable\en-gb\MiniLauncher.Localization.ini 5851e3ebceff00c7cec97a78c3f4591283704536
 DataTable\en-gb\NDCharacter.edf cee0dc648e81d1bf48684adbbbab113f638258c7
 DataTable\en-gb\NDEventShip.edf 307313c15e532ecf803493dd1cad3a646730cf24
-DataTable\en-gb\NDItem.edf 698f9be529e56a0ccc39cfa46d69e34de9a77f8c
+DataTable\en-gb\NDItem.edf c78b79bab9c59a8fb74c91efc666741aff787608
 DataTable\en-gb\NDItemCash.edf e5ee28f982e15301e0c1b3b727ea716304cde865
 DataTable\en-gb\NDLanguage.edf d13318e67b9f3aab6debbca7bb375348dd111c70
 DataTable\en-gb\NDMap.edf 28798d26d4cc5e3754d026d1204f8f928433e966
@@ -44,7 +44,7 @@ DataTable\en-gb\UIHelp.edf ba37dcc1cc0a149e2dcce71988e6d444381ec3ae
 DataTable\en-gb\WorldMapData.dat 60fdead156b3ef91da31ff0f5e44dc79554a3bfa
 DataTable\EventShip.edf 36b707ba83a29a7d57d39cbcd2b38b5db2e43b2c
 DataTable\EventSound.edf 3ca5ea9d3d1e30a71b54ec5b59bc129b2d4c3ac5
-DataTable\Item.edf 798e4aa246e55868ac7c5f439443fe3f6ab35a8a
+DataTable\Item.edf eaa8916a06bc621a9b511c2e1a2a4c19ec4edf2e
 DataTable\ItemCash.edf a2fdfd412b2435bae0f6aa9a261167211daa2a06
 DataTable\ItemCombine.edf 360eff7ff85f0a2ee1dbdb2daa58245de21287ec
 DataTable\ItemPremium.edf ba39e2102a0b59cd604fa75b8653762c084441bc
