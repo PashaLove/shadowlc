@@ -1,4 +1,4 @@
-DataTable\Character.edf ae789aa37da2e0e739aa6d3a66b58ace584ae61c
+DataTable\Character.edf e495cf5829798a026c0a2ce811350a4cdf809396
 DataTable\en-gb\ar.scp 6d77484c3578bd30b37ad156d59d166cc4550bb1
 DataTable\en-gb\as.scp 24827424dc1342642ef2c433bad7f161fa204b17
 DataTable\en-gb\Aua.dic 065e109f27683752ccae14fcb0a1b8f7c039f704
@@ -26,7 +26,7 @@ DataTable\en-gb\KeyMap_NKM.dat efac023e72b405c2f8a64ce6304170002d059ccd
 DataTable\en-gb\LauncherMessage.ini a483b3b11be06b24e7fc29ae3fba9cb2801a8b4f
 DataTable\en-gb\MAPDATA.DAT 0d08fe290ea110e5b341dc6926fb7ce806b6a722
 DataTable\en-gb\MiniLauncher.Localization.ini 5851e3ebceff00c7cec97a78c3f4591283704536
-DataTable\en-gb\NDCharacter.edf e5ec04842be6cc5214c4136b4a72fd7a4270a2fa
+DataTable\en-gb\NDCharacter.edf 56c9d49ec018b92e651baa149b478f179d95a658
 DataTable\en-gb\NDEventShip.edf 307313c15e532ecf803493dd1cad3a646730cf24
 DataTable\en-gb\NDItem.edf 6dfaeeb278c9c16a24476f5c71614c37260d7c94
 DataTable\en-gb\NDItemCash.edf e5ee28f982e15301e0c1b3b727ea716304cde865
