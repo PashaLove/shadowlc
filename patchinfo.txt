@@ -59,5 +59,5 @@ DataTable\SkillForce.edf 4200ea2ef5e7b1bb552b8b8a4a8173b86176445a
 DataTable\Store.edf be0707640ddc6edb041ece53afd6d7c3227344a5
 Snooper\mod\options.ini 0ed230aa65003afe178b08c683ff0c223754d476
 Snooper\mod\transaction.ini b3c2c1fb1ecec1ceabf67344827a31878d97cc09
-Snooper.dll 35c4f8ef0d919d2ae7b5aca41207d3ac912daaa3
+Snooper.dll 322a0bed8d05e08f59739dc23cca456b8591c58e
 SpriteImage\common\owndev.spr 7aaacd5a74b1a093fe22e8fe45fd7f8f63b1118a
