@@ -1,4 +1,4 @@
-DataTable\Character.edf 172244ce26df289e11a720323d91836bdf35bd2b
+DataTable\Character.edf 608ec0517544c8889eb424a43e5af438261bd935
 DataTable\en-gb\ar.scp 6d77484c3578bd30b37ad156d59d166cc4550bb1
 DataTable\en-gb\as.scp 24827424dc1342642ef2c433bad7f161fa204b17
 DataTable\en-gb\Aua.dic 065e109f27683752ccae14fcb0a1b8f7c039f704
@@ -26,9 +26,9 @@ DataTable\en-gb\KeyMap_NKM.dat efac023e72b405c2f8a64ce6304170002d059ccd
 DataTable\en-gb\LauncherMessage.ini a483b3b11be06b24e7fc29ae3fba9cb2801a8b4f
 DataTable\en-gb\MAPDATA.DAT 0d08fe290ea110e5b341dc6926fb7ce806b6a722
 DataTable\en-gb\MiniLauncher.Localization.ini 5851e3ebceff00c7cec97a78c3f4591283704536
-DataTable\en-gb\NDCharacter.edf 4f5ce91a4e8c06054d67bfe1c5d6f433b667d660
+DataTable\en-gb\NDCharacter.edf 87c113d736ae4623b29dbb81685595c610c0bbfa
 DataTable\en-gb\NDEventShip.edf 307313c15e532ecf803493dd1cad3a646730cf24
-DataTable\en-gb\NDItem.edf 4e7b4511ddd70d13c17e32e438626a8360262468
+DataTable\en-gb\NDItem.edf 8c3a901e71abbcbee2727a79b40e629e45f7b6d1
 DataTable\en-gb\NDItemCash.edf e5ee28f982e15301e0c1b3b727ea716304cde865
 DataTable\en-gb\NDLanguage.edf d13318e67b9f3aab6debbca7bb375348dd111c70
 DataTable\en-gb\NDMap.edf 28798d26d4cc5e3754d026d1204f8f928433e966
@@ -44,9 +44,9 @@ DataTable\en-gb\UIHelp.edf ba37dcc1cc0a149e2dcce71988e6d444381ec3ae
 DataTable\en-gb\WorldMapData.dat 60fdead156b3ef91da31ff0f5e44dc79554a3bfa
 DataTable\EventShip.edf 36b707ba83a29a7d57d39cbcd2b38b5db2e43b2c
 DataTable\EventSound.edf 3ca5ea9d3d1e30a71b54ec5b59bc129b2d4c3ac5
-DataTable\Item.edf deb5f5e9dc406c02f415d4f439c170862a112212
+DataTable\Item.edf b999d7b991005405741a093128b4b6bc41c8737a
 DataTable\ItemCash.edf a2fdfd412b2435bae0f6aa9a261167211daa2a06
-DataTable\ItemCombine.edf f06334dbf43e114fdb179b38392c0f88b1bb3947
+DataTable\ItemCombine.edf 944e9a08b5b80e2f3490e203c4b252caf462d9df
 DataTable\ItemPremium.edf ba39e2102a0b59cd604fa75b8653762c084441bc
 DataTable\ItemSetEffect.edf e596d84317bea839adad427b8d137fe54f066fb4
 DataTable\ItemTimer.edf 8919e085a1fae9cdc31abf4ff6b6f437ab97afc2
@@ -57,4 +57,7 @@ DataTable\Quest.edf 2ac100fdccef4b06c879bc424607ba4ac29369ed
 DataTable\Resource.edf 9173d7bfe226e427b91459fe4a4653a9f473cbeb
 DataTable\SkillForce.edf 4200ea2ef5e7b1bb552b8b8a4a8173b86176445a
 DataTable\Store.edf be0707640ddc6edb041ece53afd6d7c3227344a5
+Snooper\mod\options.ini 0ed230aa65003afe178b08c683ff0c223754d476
+Snooper\mod\transaction.ini b3c2c1fb1ecec1ceabf67344827a31878d97cc09
 Snooper.dll 35c4f8ef0d919d2ae7b5aca41207d3ac912daaa3
+SpriteImage\common\owndev.spr 7aaacd5a74b1a093fe22e8fe45fd7f8f63b1118a
